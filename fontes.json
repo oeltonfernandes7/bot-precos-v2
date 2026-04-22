@@ -1,0 +1,37 @@
+{
+  "fontes": [
+    {
+      "nome": "Farmácia Indiana",
+      "url": "https://www.farmaciaindiana.com.br",
+      "status": "ativa",
+      "metodo": "JSON_VTEX",
+      "coluna_csv": "FARMACIA_INDIANA",
+      "adicionada_em": "2026-04-21"
+    },
+    {
+      "nome": "Drogasil",
+      "url": "https://www.drogasil.com.br",
+      "status": "ativa",
+      "metodo": "PLAYWRIGHT",
+      "coluna_csv": "DROGASIL",
+      "adicionada_em": "2026-04-21"
+    },
+    {
+      "nome": "Mercado Livre",
+      "url": "https://www.mercadolivre.com.br",
+      "status": "ativa",
+      "metodo": "API_REST",
+      "coluna_csv": "MERCADO_LIVRE",
+      "adicionada_em": "2026-04-21"
+    },
+    {
+      "nome": "Pacheco",
+      "url": "https://www.pacheco.com.br",
+      "status": "ativa",
+      "metodo": "JSON_VTEX",
+      "coluna_csv": "PACHECO",
+      "adicionada_em": "2026-04-21"
+    }
+  ],
+  "pendentes": []
+}

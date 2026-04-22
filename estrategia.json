@@ -1,0 +1,34 @@
+{
+  "drogasil.com.br": {
+    "url": "https://www.drogasil.com.br",
+    "plataforma": "GENÉRICA",
+    "api_oficial": false,
+    "json_vtex": false,
+    "playwright": true,
+    "metodo_recomendado": "PLAYWRIGHT"
+  },
+  "farmaciaindiana.com.br": {
+    "url": "https://www.farmaciaindiana.com.br",
+    "plataforma": "VTEX",
+    "api_oficial": false,
+    "json_vtex": true,
+    "playwright": false,
+    "metodo_recomendado": "JSON_VTEX"
+  },
+  "mercadolivre.com.br": {
+    "url": "https://www.mercadolivre.com.br",
+    "plataforma": "GENÉRICA",
+    "api_oficial": false,
+    "json_vtex": false,
+    "playwright": false,
+    "metodo_recomendado": "PLAYWRIGHT"
+  },
+  "pacheco.com.br": {
+    "url": "https://www.pacheco.com.br",
+    "plataforma": "GENÉRICA",
+    "api_oficial": false,
+    "json_vtex": false,
+    "playwright": true,
+    "metodo_recomendado": "PLAYWRIGHT"
+  }
+}

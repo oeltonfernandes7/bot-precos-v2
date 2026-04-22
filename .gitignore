@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+logs/
+historico/
+.DS_Store
+venv/
+*.xlsx
